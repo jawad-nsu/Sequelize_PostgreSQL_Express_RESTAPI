@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jawad",
+    "password": "jawad12",
+    "database": "node_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "test": {
+    "username": "jawad",
+    "password": "jawad12",
+    "database": "node_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "jawad",
+    "password": "jawad12",
+    "database": "node_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
